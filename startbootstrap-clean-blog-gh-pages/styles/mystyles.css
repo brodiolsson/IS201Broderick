@@ -1,0 +1,21 @@
+li {font-size: 18px; color: royalblue; font-weight: normal; font-style: normal;}
+
+.bold {font-weight: bold;}
+
+.underline {text-decoration: underline;}
+
+.italic {font-style: italic;}
+
+.italicS {font-style: italic; font-size: 14px;}
+
+.fixed {position: fixed;}
+
+.lightB {color: skyblue;}
+
+.silver {color: silver;}
+
+.john {color: darkblue; font-style: normal;}
+
+.bgwhite {background-color: white;}
+
+.bggrey {background-color: rgb(184, 182, 182);}
